@@ -42,7 +42,6 @@
 ## Communication Tools
 - Slack
 - Github
-
 - Trello
 - Notion
 
