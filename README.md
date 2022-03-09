@@ -35,6 +35,7 @@
 ## Communication Tools
 - Slack
 - Github
+
 - Trello
 - Notion
 
@@ -74,8 +75,7 @@
 
 [ 제품 상세 정보 ]
 
-![ 제품 상세 정보 ](https://user-images.githubusercontent.com/90857450/157400621-7616b05c-1910-4a77-9d98-1a8eb64689b0.gif)
-
+![ 제품 상세 정보 ](https://user-images.githubusercontent.com/90857450/157401643-5d8baa2e-bebc-4c7e-8484-288a74afe159.gif)
 [ 제품 리뷰 ]
 
 ![ 제품 리뷰 ](https://user-images.githubusercontent.com/90857450/157400696-82256bda-8c85-4caa-a959-7c2d82d91ff7.gif)
