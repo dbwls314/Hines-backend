@@ -41,7 +41,7 @@
 
 ## 시연 영상
 
-[ 하인즈 프로젝트 시연 영상 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
+[ 하인즈 프로젝트 유뷰 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
 
 [ 제품 상세 정보 👇 ]
 
