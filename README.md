@@ -72,7 +72,12 @@
 
 [ 하인즈 프로젝트 시연 영상 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
 
+[ 제품 상세 정보 ]
+
 ![ 제품 상세 정보 ](https://user-images.githubusercontent.com/90857450/157400621-7616b05c-1910-4a77-9d98-1a8eb64689b0.gif)
+
+[ 제품 리뷰 ]
+
 ![ 제품 리뷰 ](https://user-images.githubusercontent.com/90857450/157400696-82256bda-8c85-4caa-a959-7c2d82d91ff7.gif)
 
 
