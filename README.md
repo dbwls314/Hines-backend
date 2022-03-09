@@ -41,14 +41,14 @@
 
 ## 시연 영상
 
-[ 하인즈 프로젝트 유뷰 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
+#### [ 하인즈 프로젝트 유뷰 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
 
-[ 제품 상세 정보 👇 ]
+#### [ 제품 상세 정보 ]
 
 ![gifit_1646814391470 (1)](https://user-images.githubusercontent.com/90857450/157402088-4512fdf4-1831-4182-8984-2e4b98ba635a.gif)
 
 
-[ 제품 리뷰 👇 ]
+####[ 제품 리뷰 ]
 
 ![gifit_1646814311519](https://user-images.githubusercontent.com/90857450/157401856-f16722a6-957f-48fe-a6a8-dcb7ce6d24b9.gif)
 
