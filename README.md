@@ -40,11 +40,11 @@
 <br>
 
 ## Product Detail [ 구현 담당 기능 ]
-- 제품 상세 정보 반환하는 상세페이지 API 구현
+- 제품 `상세 정보 반환`하는 상세페이지 API 구현
 
 ## Review [ 구현 담당 기능 ] 
-- 제품 리뷰 등록 및 리뷰 정보 반환하는 API 구현
-- offset:limit을 활용한 pagination 구현 
+- 제품 `리뷰 등록` 및 `리뷰 정보 반환`하는 API 구현
+- offset:limit을 활용한 `pagination` 구현 
 
 <br>
 
