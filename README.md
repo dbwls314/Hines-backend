@@ -64,6 +64,8 @@
 
 #### [ 하인즈 프로젝트 유튜브 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
 
+<img width="1415" alt="image" src="https://user-images.githubusercontent.com/90857450/157430426-72a17ef2-1ed7-43f0-a0bd-ebf2416c6422.png">
+
 #### [ 제품 상세 정보 ]
 
 ![gifit_1646814391470 (1)](https://user-images.githubusercontent.com/90857450/157402088-4512fdf4-1831-4182-8984-2e4b98ba635a.gif)
