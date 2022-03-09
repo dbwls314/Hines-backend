@@ -53,6 +53,7 @@
 - 장바구니
 - 주문 확인 페이지
 - CSV 데이터 작성 및 데이터 입력
+![gifit_1646814311519](https://user-images.githubusercontent.com/90857450/157401856-f16722a6-957f-48fe-a6a8-dcb7ce6d24b9.gif)
 
 <br>
 
@@ -75,8 +76,10 @@
 
 [ 제품 상세 정보 ]
 
-![ 제품 상세 정보 ](https://user-images.githubusercontent.com/90857450/157401643-5d8baa2e-bebc-4c7e-8484-288a74afe159.gif)
+
+
 [ 제품 리뷰 ]
+
 
 ![ 제품 리뷰 ](https://user-images.githubusercontent.com/90857450/157400696-82256bda-8c85-4caa-a959-7c2d82d91ff7.gif)
 
