@@ -7,7 +7,7 @@
 - 2021.12.13 ~ 2021.12.24
 
 ## 멤버
-- backend : 이유진, 장도원, 제갈창민
+- backend : `이유진`, 장도원, 제갈창민
 - frontend : 이지현, 홍정빈, 황주영</br>
 [Frontend github](https://github.com/wecode-bootcamp-korea/27-2nd-Hines-frontend)
 
@@ -25,9 +25,9 @@
 <br>
 
 ## SKillS
-- Python
-- Django
-- Mysql
+- Python 3.8
+- Django 4.0
+- Mysql 8.0
 - AWS
 
 <br>
@@ -40,10 +40,14 @@
 
 <br>
 
+-------------
+
+<br>
+
 ## 구현기능
 - 소셜로그인
 - 메인페이지
-- 상세페이지 [ 담당 기능 ]
+- 제품 상세페이지 [ 담당 기능 ]
 - 제품 리뷰 포스팅 [ 담당 기능 ]
 - 장바구니
 - 주문 확인 페이지
@@ -58,8 +62,19 @@
 - 제품 리뷰 등록 및 리뷰 정보 반환
 - offset:limit을 활용한 pagination 구현 
 
-## 시연 영상</br>
-[시연 영상](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
+<br>
+
+-----------
+
+<br>
+
+## 시연 영상
+
+[ 하인즈 프로젝트 시연 영상 링크 ](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
+
+![ 제품 상세 정보 ](https://user-images.githubusercontent.com/90857450/157400621-7616b05c-1910-4a77-9d98-1a8eb64689b0.gif)
+![ 제품 리뷰 ](https://user-images.githubusercontent.com/90857450/157400696-82256bda-8c85-4caa-a959-7c2d82d91ff7.gif)
+
 
 <br>
 
